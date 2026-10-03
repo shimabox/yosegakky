@@ -1,0 +1,13 @@
+{
+  "name": "yosegakky-browser-tests",
+  "private": true,
+  "scripts": {
+    "test": "node tests/smoke.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.63.0"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}
